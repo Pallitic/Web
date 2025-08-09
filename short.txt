@@ -1,12 +1,13 @@
-vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@95.164.113.4:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 vless://51b676c4-7fc2-46b9-a26a-2834e2db7046@202.78.163.59:51886?security=reality&sni=stackoverflow.com&fp=chrome&pbk=bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE&sid=c6&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 vless://cc923e2a-38ca-4da9-8f2a-801562b31bb4@94.141.123.233:443?security=reality&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443?security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http/1.1&fp=chrome&type=ws&path=/@v2ray_configs_pools-@v2ray_configs_pools-&host=carlotta.shoorekeeper.cloudns.org&encryption=none#@FarsiProxi
-vless://V2rayNGFreee@193.151.151.132:8081?security=&type=tcp&headerType=http&host=telewebion.com&encryption=none#@FarsiProxi
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=&type=tcp&headerType=http&host=zula.ir&encryption=none#@FarsiProxi
 vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?security=reality&sni=yelp.com&fp=chrome&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&sid=cf34f84f37&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45&type=grpc&serviceName=das12327gsgsyu&encryption=none#@FarsiProxi
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&path=/Tel-@V2ray_Alpha&host=vpn.stupidworld.web.id#@FarsiProxi
-vless://18da5a86-1b44-4a88-bb2b-6845d75a74a3@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.202.129&encryption=none#@FarsiProxi
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#@FarsiProxi
+vless://fb59dd8c-8b7f-4c1a-a882-bd8db2b46511@94.237.98.163:28691?security=reality&sni=study.com&fp=chrome&pbk=78s0RDpdZt4m0iAmFzwWhk31utTYGXspExOCpgoWEWI&sid=f827&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 vless://d739e19a-312c-40dc-acaa-a90f247bd12c@68.183.216.44:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=46.101.237.150&encryption=none#@FarsiProxi
+vless://18da5a86-1b44-4a88-bb2b-6845d75a74a3@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.202.129&encryption=none#@FarsiProxi
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?security=tls&sni=KdTtBsWgDe.GiTi3.OrG&type=ws&path=/&host=KdTtBsWgDe.GiTi3.OrG&encryption=none#@FarsiProxi
+vless://fa409fa5-1a68-534a-93fb-9727127dc83b@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#@FarsiProxi
