@@ -1,3 +1,6 @@
+<b> پل های امروز آرگو 👇 </b>
+      
+
 <pre>
 -----BEGIN ARGO VPN BRIDGE BLOCK-----
 eJwNzE1vgjAYAOD/0qsesG6NNfFiV5KXgAS/
@@ -46,3 +49,6 @@ O91uwQJo0Uo23ofm1cZREeI0LJ1SSag+lnTM4un0m3RjVFCe
 vp2LLPeZ9XZ7BY1PwN8/1+xGGw==
 -----END ARGO VPN BRIDGE BLOCK-----
 </pre>
+
+
+🆔 @FarsiProxi
