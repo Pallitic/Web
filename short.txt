@@ -1,20 +1,20 @@
 <b> کانفیگ های امروز v2ray 👇 </b>
 
 
-<pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1Z4eEJMQVZiRVF4eHJSRFNySHBZ@104.248.36.101:80#@FarsiProxi
-vmess://eyJhZGQiOiIzNy4yMDIuMjI1Ljc0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImIzNjhhODZlLTZmYmMtNDMxYy05ZjA1LTZlMWZhYjg5Njg1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDA1MjEiLCJwcyI6IkBGYXJzaVByb3hpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozek1UN1hRamJDTEVQYm5OTFNKOWo3@94.159.96.245:11902#@FarsiProxi
+<pre>vless://d0c798ee-d28b-4b9d-bb05-7ab81c490d73@104.21.12.130:443?security=tls&sni=rangikumatsumoto.retsuunohana.ip-ddns.com&alpn=http/1.1&fp=random&type=ws&path=/proxyip%3Drobin.yaemiko.ggff.net&host=rangikumatsumoto.retsuunohana.ip-ddns.com&encryption=none#@FarsiProxi
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/&encryption=none#@FarsiProxi
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?security=tls&sni=blog.ruangguru.com.servpn.my.id&type=ws&path=/id5?ed%3D2560/?MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&host=blog.ruangguru.com.servpn.my.id&encryption=none#@FarsiProxi
+vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?security=tls&allowInsecure=1&type=ws&path=/dcgfdfws&encryption=none#@FarsiProxi
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@FarsiProxi
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?security=tls&sni=blog.ruangguru.com.servpn.my.id&type=ws&path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed%3D2560&host=blog.ruangguru.com.servpn.my.id&encryption=none#@FarsiProxi
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&allowInsecure=1&type=ws&path=/&encryption=none#@FarsiProxi
-vless://bb7bbd46-6570-483a-8932-df3d893d4e0c@104.21.16.1:2087?security=tls&sni=57140d1D.HYuiThOhkK2RW2BANp075lN4Bx8P8Xs9.pAgeS.DEv&alpn=http/1.1&fp=randomized&type=ws&path=/AHUqk6L2hMDLGdif?ed%3D2560&host=57140d1d.hyuithohkk2rw2banp075ln4bx8p8xs9.pages.dev&encryption=none#@FarsiProxi
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?security=tls&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&path=/sg3/?-JKVPN_TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&host=app-stg.gopay.co.id.servpn.my.id&encryption=none#@FarsiProxi
-vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=&type=tcp&encryption=none#@FarsiProxi
 vless://Free_HTTPCustom@91.98.21.125:80?security=&type=tcp&encryption=none#@FarsiProxi
-vless://d0c798ee-d28b-4b9d-bb05-7ab81c490d73@104.21.12.130:443?security=tls&sni=rangikumatsumoto.retsuunohana.ip-ddns.com&alpn=http/1.1&fp=random&type=ws&path=/proxyip%3Drobin.yaemiko.ggff.net&host=rangikumatsumoto.retsuunohana.ip-ddns.com&encryption=none#@FarsiProxi
-vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@188.114.96.3:80?security=&type=ws&path=/pgLUAo7mya6xC60a&host=sHAhRamConfIGWorKERCJsa9898.coNFiGSHahrAMCOnFiG.wOrkErS.DeV&encryption=none#@FarsiProxi</pre>
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&allowInsecure=1&type=ws&path=/hxwdnrws&encryption=none#@FarsiProxi
+hy2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#@FarsiProxi
+vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@FarsiProxi
+vless://d02516f0-9073-4874-94a9-9e90137bd5d8@144.126.247.47:1418?security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=TKECu-ozLYMhRONBxpL4NSybvXhhhb-erw0rz7qhNHc&sid=98&spx=/&type=tcp&encryption=none#@FarsiProxi
+vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?security=tls&allowInsecure=1&type=ws&path=/lmhdjfws&encryption=none#@FarsiProxi
+vless://d0c798ee-d28b-4b9d-bb05-7ab81c490d73@104.21.41.140:443?security=tls&sni=rangikumatsumoto.retsuunohana.ip-ddns.com&alpn=http/1.1&fp=random&type=ws&path=/proxyip%3Dwizu.shorekeeper.ir&host=rangikumatsumoto.retsuunohana.ip-ddns.com&encryption=none#@FarsiProxi
+vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?security=tls&allowInsecure=1&type=ws&path=/rsrjowws&encryption=none#@FarsiProxi
+vmess://eyJhZGQiOiI4My4xNDcuMTguMTAwIiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjA0OGE4NjljLWEyZjYtMzVhOC00MGEwLTdkOTgyODc2ZDg2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijk5MCIsInBzIjoiQEZhcnNpUHJveGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?security=&type=grpc&serviceName=7195vless&encryption=none#@FarsiProxi</pre>
 
 
 🆔 @FarsiProxi
