@@ -1,7 +1,8 @@
 <b> کانفیگ های امروز v2ray 👇 </b>
 
 
-<pre>ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@FarsiProxi
+<pre>
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@FarsiProxi
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&allowInsecure=1&type=ws&path=/hxwdnrws&encryption=none#@FarsiProxi
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?security=tls&allowInsecure=1&type=ws&path=/qnbufdws&encryption=none#@FarsiProxi
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
@@ -16,7 +17,8 @@ vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?security=&type=ws&
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&type=tcp&encryption=none#@FarsiProxi
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@FarsiProxi
-vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?security=tls&sni=companypdf9.pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=companypdf9.pages.dev&encryption=none#@FarsiProxi</pre>
+vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?security=tls&sni=companypdf9.pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=companypdf9.pages.dev&encryption=none#@FarsiProxi
+</pre>
 
 
 🆔 @FarsiProxi
