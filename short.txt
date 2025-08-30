@@ -1,22 +1,22 @@
 <b> کانفیگ های امروز v2ray 👇 </b>
 
 
-<pre>vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&allowInsecure=1&type=ws&path=/hxwdnrws&encryption=none#@FarsiProxi
+<pre>ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@FarsiProxi
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&allowInsecure=1&type=ws&path=/hxwdnrws&encryption=none#@FarsiProxi
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?security=tls&allowInsecure=1&type=ws&path=/qnbufdws&encryption=none#@FarsiProxi
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?security=tls&allowInsecure=1&type=ws&path=/lmhdjfws&encryption=none#@FarsiProxi
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?security=tls&allowInsecure=1&type=ws&path=/rsrjowws&encryption=none#@FarsiProxi
-vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@188.114.96.3:80?security=&type=ws&path=/pgLUAo7mya6xC60a&host=sHAhRamConfIGWorKERCJsa9898.coNFiGSHahrAMCOnFiG.wOrkErS.DeV&encryption=none#@FarsiProxi
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@FarsiProxi
-vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@FarsiProxi
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/&encryption=none#@FarsiProxi
 vmess://eyJhZGQiOiI4My4xNDcuMTguMTAwIiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjA0OGE4NjljLWEyZjYtMzVhOC00MGEwLTdkOTgyODc2ZDg2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijk5MCIsInBzIjoiQEZhcnNpUHJveGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?security=tls&allowInsecure=1&type=ws&path=/qnbufdws&encryption=none#@FarsiProxi
-vless://c93b1359-c570-4703-894a-ce18883faac3@104.26.0.73:443?security=tls&sni=bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev&type=ws&path=/&host=bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev&encryption=none#@FarsiProxi
-vless://c39a65c8-6ecc-47f9-b5b3-e5ddb807a097@134.209.90.171:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
-vless://5a4e040a-8de6-4222-bd6f-9f535b8772fd@104.21.58.212:80?security=&type=ws&path=/lrJO6NEVRGHecfbo?ed%3D2560&host=calm-violet-0e47.pomofoc222.workers.dev&encryption=none#@FarsiProxi
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#@FarsiProxi
-vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@172.66.138.120:443?security=tls&sni=rAyAn-cOnFiC-11.rAyAn-iV.DnS-DyNaMiC.NeT&type=ws&path=/@i10VPN&host=rayan-confic-11.rayan-iv.dns-dynamic.net&encryption=none#@FarsiProxi
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
-vless://1e1858cd-def6-4408-a9d2-153d1f2fe47e@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi</pre>
+vless://1e1858cd-def6-4408-a9d2-153d1f2fe47e@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
+vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?security=reality&sni=ratp.fr&fp=random&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&sid=e9da&type=grpc&serviceName=probrain-etl&encryption=none#@FarsiProxi
+vless://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.14.19:2082?security=&type=ws&path=/?ed%3D2560&host=0127.4zsuplo0.workers.dev&encryption=none#@FarsiProxi
+vless://34392035-3620-4535-a034-392035332034@193.29.181.38:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
+vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?security=&type=ws&path=/Fvy0Y7NJ7uucUDha?ed%3D2560%23CF%E4%B8%AD%E8%BD%AC_0827048048&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&encryption=none#@FarsiProxi
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&type=tcp&encryption=none#@FarsiProxi
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
+vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@FarsiProxi
+vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?security=tls&sni=companypdf9.pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=companypdf9.pages.dev&encryption=none#@FarsiProxi</pre>
 
 
 🆔 @FarsiProxi
