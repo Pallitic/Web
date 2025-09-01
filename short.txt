@@ -2,22 +2,20 @@
 
 
 <pre>
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@FarsiProxi
-vless://1e1858cd-def6-4408-a9d2-153d1f2fe47e@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@FarsiProxi
-vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?security=&type=ws&path=/Fvy0Y7NJ7uucUDha?ed%3D2560%23CF%E4%B8%AD%E8%BD%AC_0827048048&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&encryption=none#@FarsiProxi
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&type=tcp&encryption=none#@FarsiProxi
-vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&allowInsecure=1&type=ws&path=/hxwdnrws&encryption=none#@FarsiProxi
-vmess://eyJhZGQiOiI4My4xNDcuMTguMTAwIiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjA0OGE4NjljLWEyZjYtMzVhOC00MGEwLTdkOTgyODc2ZDg2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijk5MCIsInBzIjoiQEZhcnNpUHJveGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?security=tls&allowInsecure=1&type=ws&path=/rsrjowws&encryption=none#@FarsiProxi
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?security=tls&allowInsecure=1&type=ws&path=/lmhdjfws&encryption=none#@FarsiProxi
+vless://1e1858cd-def6-4408-a9d2-153d1f2fe47e@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?security=tls&allowInsecure=1&type=ws&path=/qnbufdws&encryption=none#@FarsiProxi
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
-vless://3668c58e-63f9-41d9-af93-ea4eaefde81b@78.47.216.178:8443?security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&encryption=none#@FarsiProxi
-vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?security=tls&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&path=/&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&encryption=none#@FarsiProxi
-vless://bcf2fc80-a116-4ac5-9b28-953ae97a9f2b@172.238.117.145:8080?security=reality&sni=google.com&fp=chrome&pbk=rOvec6JPMjotfQPOFZbfNWo97CmogfIUgmtbG_MXwis&sid=cd4dbb5b68dfd2a6&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://cde791a7-d355-4ff4-b6f7-385b7bc3c6e0@91.107.251.143:6745?security=&type=tcp&encryption=none#@FarsiProxi
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
-vless://bb7bbd46-6570-483a-8932-df3d893d4e0c@104.21.16.1:2087?security=tls&sni=57140d1D.HYuiThOhkK2RW2BANp075lN4Bx8P8Xs9.pAgeS.DEv&alpn=http/1.1&fp=randomized&type=ws&path=/AHUqk6L2hMDLGdif?ed%3D2560&host=57140d1d.hyuithohkk2rw2banp075ln4bx8p8xs9.pages.dev&encryption=none#@FarsiProxi
+vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?security=tls&allowInsecure=1&type=ws&path=/lmhdjfws&encryption=none#@FarsiProxi
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&type=tcp&encryption=none#@FarsiProxi
+vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?security=tls&allowInsecure=1&type=ws&path=/rsrjowws&encryption=none#@FarsiProxi
+vless://ff8d20d1-db9d-4cbe-9fef-ea10a474cd6c@83.217.9.233:443?security=reality&sni=cdnjs.com&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
+vless://turboo-server@95.211.46.25:43978?security=&type=tcp&headerType=http&host=&encryption=none#@FarsiProxi
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#@FarsiProxi
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.18:9018#@FarsiProxi
+vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&allowInsecure=1&type=ws&path=/fqogayws&encryption=none#@FarsiProxi
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.18:9064#@FarsiProxi
+vless://174006ec-4fa9-4efd-a0f2-45ce808fee6a@212.192.23.217:443?security=reality&sni=yahoo.com&fp=chrome&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&sid=06c6eb7423f24de5&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 </pre>
 
 
