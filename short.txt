@@ -2,22 +2,22 @@
 
 
 <pre>
-vless://e26b0e3d-d5a8-49ed-ade7-1ca8551c830d@128.199.56.167:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@FarsiProxi
-vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.112.1:443?security=tls&sni=jnir-cdn.jnir.my&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.jnir.my&encryption=none#@FarsiProxi
-vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.32.1:443?security=tls&sni=jnir-cdn.29394900.xyz&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.29394900.xyz&encryption=none#@FarsiProxi
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?security=tls&allowInsecure=1&type=ws&path=/lmhdjfws&encryption=none#@FarsiProxi
-vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&allowInsecure=1&type=ws&path=/fqogayws&encryption=none#@FarsiProxi
-vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.202:443?security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://bb7bbd46-6570-483a-8932-df3d893d4e0c@104.21.16.1:2087?security=tls&sni=57140d1D.HYuiThOhkK2RW2BANp075lN4Bx8P8Xs9.pAgeS.DEv&alpn=http/1.1&fp=randomized&type=ws&path=/AHUqk6L2hMDLGdif?ed%3D2560&host=57140d1d.hyuithohkk2rw2banp075ln4bx8p8xs9.pages.dev&encryption=none#@FarsiProxi
-vless://c728f2a2-7c96-4291-a581-dac873e8e456@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
-hy2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#@FarsiProxi
-vless://7d2cbc04-b08c-4eba-925d-95ffff5ed1b3@82.153.217.132:443?security=reality&sni=tgju.org&fp=chrome&pbk=fHd4FVfuo67TyhC9xOr08EKzhUFmtytTE88vY7stBV4&sid=901a59f4a0&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://2836c061-ea09-45e5-a98e-4ca478e744b0@172.66.47.63:443?security=tls&sni=aDD-1cV.pAGeS.Dev&fp=random&type=ws&path=/f2GYY0YixkpPeMtx/Y2RuLWIxMDAueG4tLWI2Z2FjLmV1Lm9yZw?ed%3D2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&host=aDD-1cV.pAGeS.Dev&encryption=none#@FarsiProxi
 vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.64.1:443?security=tls&sni=jnir-cdn.javidnaman.com&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.javidnaman.com&encryption=none#@FarsiProxi
-vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?security=&type=ws&path=/?ed%3D2087&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&encryption=none#@FarsiProxi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@FarsiProxi
+vless://e26b0e3d-d5a8-49ed-ade7-1ca8551c830d@128.199.56.167:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
+vless://7d2cbc04-b08c-4eba-925d-95ffff5ed1b3@82.153.217.132:443?security=reality&sni=tgju.org&fp=chrome&pbk=fHd4FVfuo67TyhC9xOr08EKzhUFmtytTE88vY7stBV4&sid=901a59f4a0&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
+vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.32.1:443?security=tls&sni=jnir-cdn.29394900.xyz&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.29394900.xyz&encryption=none#@FarsiProxi
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?security=tls&allowInsecure=1&type=ws&path=/dcgfdfws&encryption=none#@FarsiProxi
+vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&allowInsecure=1&type=ws&path=/fqogayws&encryption=none#@FarsiProxi
+vless://c728f2a2-7c96-4291-a581-dac873e8e456@159.65.119.239:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
+vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.112.1:443?security=tls&sni=jnir-cdn.jnir.my&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.jnir.my&encryption=none#@FarsiProxi
+hy2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#@FarsiProxi
+vless://bb7bbd46-6570-483a-8932-df3d893d4e0c@104.21.16.1:2087?security=tls&sni=57140d1D.HYuiThOhkK2RW2BANp075lN4Bx8P8Xs9.pAgeS.DEv&alpn=http/1.1&fp=randomized&type=ws&path=/AHUqk6L2hMDLGdif?ed%3D2560&host=57140d1d.hyuithohkk2rw2banp075ln4bx8p8xs9.pages.dev&encryption=none#@FarsiProxi
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.202:443?security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
+vmess://eyJhZGQiOiI5MS45OS4yLjg2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjEwMDFkNWE1LTBlZDUtNDhlYS1hNDVlLTE0MDA3ODM3ODU0NSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoiQEZhcnNpUHJveGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?security=tls&sni=companypdf9.pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=companypdf9.pages.dev&encryption=none#@FarsiProxi
+vless://7b5ae861-3af8-4974-b983-9f2a986d9b12@68.183.62.253:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
 </pre>
 
 
