@@ -2,16 +2,16 @@
 
 
 <pre>
-vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.112.1:443?security=tls&sni=jnir-cdn.jnir.my&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.jnir.my&encryption=none#@FarsiProxi
-vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.64.1:443?security=tls&sni=jnir-cdn.javidnaman.com&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.javidnaman.com&encryption=none#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@FarsiProxi
+vless://5fda29b6-0688-44e3-afdf-df533c800109@51.89.118.126:25369?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@FarsiProxi
+vless://bd466500-8bd5-46be-9a5b-fb5a8ede111c@104.248.47.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?security=&type=ws&path=/?ed%3D2560&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&encryption=none#@FarsiProxi
+vless://bbd95c2b-7100-4503-915f-6210d23c4952@206.189.106.37:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
+vless://ae658497-2809-4ecb-86d5-db73867bfa38@188.114.97.7:443?security=tls&sni=9oPprODUcTINCHELloauS9678.rIDic35214.wORkERS.DEv&alpn=http/1.1&type=ws&path=/WxedDvrJwCt8Kd1r?ed%3D2560&host=9opproductinchelloaus9678.ridic35214.workers.dev&encryption=none#@FarsiProxi
+vless://54559d31-a4f0-4648-beeb-8323045a36c8@87.107.9.178:4414?security=&type=tcp&headerType=http&host=varzesh3.com&encryption=none#@FarsiProxi
+vless://0a708abd-79b3-420d-a564-e8a1ff580f83@141.227.134.153:25365?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@FarsiProxi
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/cnqazsws&encryption=none#@FarsiProxi
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?security=tls&allowInsecure=1&type=ws&path=/lmhdjfws&encryption=none#@FarsiProxi
-vless://406034dd-4b2a-41f5-8405-cf3dedd5760f@104.21.32.1:443?security=tls&sni=jnir-cdn.29394900.xyz&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.29394900.xyz&encryption=none#@FarsiProxi
-vless://f573c6de-3e91-49e0-9236-63864300e956@91.99.58.127:2090?security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&encryption=none#@FarsiProxi
-vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?security=tls&allowInsecure=1&type=ws&path=/dcgfdfws&encryption=none#@FarsiProxi
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&type=tcp&headerType=http&host=Telewebion.com&encryption=none#@FarsiProxi
-vless://951db795-9639-4fc7-b571-288b7424b2d7@64.226.99.65:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
 </pre>
 
 
