@@ -5,13 +5,13 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@FarsiProxi
 vless://4e5fdf31-1aac-419c-9a95-c43be04adcb2@104.21.112.1:443?security=tls&sni=jnir-cdn.jnir.my&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.jnir.my&encryption=none#@FarsiProxi
 vless://4e5fdf31-1aac-419c-9a95-c43be04adcb2@104.21.64.1:443?security=tls&sni=jnir-cdn.javidnaman.com&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.javidnaman.com&encryption=none#@FarsiProxi
+vmess://eyJhZGQiOiI5MS4xMzQuOC44OCIsImFpZCI6IjAiLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBGYXJzaVByb3hpIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://ae658497-2809-4ecb-86d5-db73867bfa38@188.114.97.7:443?security=tls&sni=9oPprODUcTINCHELloauS9678.rIDic35214.wORkERS.DEv&alpn=http/1.1&type=ws&path=/WxedDvrJwCt8Kd1r?ed%3D2560&host=9opproductinchelloaus9678.ridic35214.workers.dev&encryption=none#@FarsiProxi
-vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@FarsiProxi
 vless://964342f5-d9fc-48ee-9d95-87709d0b831c@104.17.148.22:443?security=tls&sni=azadnet.comelej425.workers.dev&alpn=http/1.1&fp=randomized&type=ws&path=/99uqzwxlqgtzfinu?ed%3D2560&host=azadnet.comelej425.workers.dev&encryption=none#@FarsiProxi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=&type=grpc&encryption=none#@FarsiProxi
+vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@FarsiProxi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?security=tls&sni=companypdf9.pages.dev&fp=chrome&type=ws&path=/?ed%3D2048&host=companypdf9.pages.dev&encryption=none#@FarsiProxi
-vmess://eyJhZGQiOiI5MS4xMzQuOC44OCIsImFpZCI6IjAiLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBGYXJzaVByb3hpIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://116d3496-149b-42e1-99af-db294fe5c584@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#@FarsiProxi
 </pre>
 
 
