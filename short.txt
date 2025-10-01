@@ -6,12 +6,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:
 vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@104.21.54.48:443?security=tls&sni=jnir-cdn.jnir.my&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.jnir.my&encryption=none#@FarsiProxi
 vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@172.67.223.154:443?security=tls&sni=jnir-cdn.29394900.xyz&type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&host=jnir-cdn.29394900.xyz&encryption=none#@FarsiProxi
 vless://964342f5-d9fc-48ee-9d95-87709d0b831c@104.17.148.22:443?security=tls&sni=azadnet.comelej425.workers.dev&alpn=http/1.1&fp=randomized&type=ws&path=/99uqzwxlqgtzfinu?ed%3D2560&host=azadnet.comelej425.workers.dev&encryption=none#@FarsiProxi
-vless://664cb874-5182-4ebb-b3b4-5f430f0152dd@5.75.198.232:443?security=tls&sni=free-pubg-697.pages.dev&fp=chrome&type=ws&path=/averkwhgqb&host=free-pubg-697.pages.dev&encryption=none#@FarsiProxi
 vless://10377e13-ba4e-4b86-ad26-08ac573bfa29@57.130.29.231:46393?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@FarsiProxi
-vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@154.81.141.36:2096?security=tls&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&type=ws&path=/snippets&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&encryption=none#@FarsiProxi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://ca3822f1-ef8d-4eca-ae5a-aa1ea1df8384@172.66.40.99:443?security=tls&sni=ircp.55994421.xyz&fp=firefox&type=ws&path=@ln2ray?ed%3D2560&host=ircp.55994421.xyz&encryption=none#@FarsiProxi
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?security=&type=grpc&encryption=none#@FarsiProxi
 </pre>
 
 
