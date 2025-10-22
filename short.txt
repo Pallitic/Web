@@ -2,14 +2,18 @@
 
 
 <pre>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#@FarsiProxi
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?security=&type=grpc&encryption=none#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?security=&type=grpc&encryption=none#@FarsiProxi
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.12.229:8443?security=tls&sni=azadnet-4nb.pages.dev&fp=chrome&type=ws&path=/?ed%3D2560&host=azadnet-4nb.pages.dev&encryption=none#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?security=&type=grpc&encryption=none#@FarsiProxi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?security=&fp=chrome&type=grpc&encryption=none#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?security=&type=grpc&encryption=none#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?security=&type=grpc&encryption=none#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=&type=grpc&encryption=none#@FarsiProxi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&encryption=none#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?security=&fp=chrome&type=grpc&encryption=none#@FarsiProxi
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&type=tcp&headerType=http&host=Telewebion.com&encryption=none#@FarsiProxi
 </pre>
 
 
