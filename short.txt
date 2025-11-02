@@ -2,18 +2,18 @@
 
 
 <pre>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#@FarsiProxi
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@88.198.160.200:24199?security=&type=tcp&encryption=none#@FarsiProxi
-vmess://eyJhZGQiOiIxMTYuMjAzLjk0LjIwMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyODA2ZmM1OC0zZTZlLTQ4YzUtYjY0My0wODIxNGVmNTg1OTMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwMDAwIiwicHMiOiJARmFyc2lQcm94aSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.79:8880?security=&type=grpc&encryption=none#@FarsiProxi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#@FarsiProxi
+hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#@FarsiProxi
+vless://62123270-580c-40d7-aafd-0641075e21d6@38.180.120.110:8443?security=reality&sni=wikipedia.org&fp=chrome&pbk=n5_Q9uOsy2vxOB0rDLd_zufmEcSkF_m_CEubQXQ-vwQ&sid=346799&spx=/&type=tcp&encryption=none#@FarsiProxi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.164:8880?security=&type=grpc&encryption=none#@FarsiProxi
-vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&sid=40e3350da285&type=tcp&encryption=none#@FarsiProxi
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?security=&type=grpc&encryption=none#@FarsiProxi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbENJNDRDSGNGTHp2MkxxS1phSmJC@79.133.180.201:31613#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?security=&fp=chrome&type=grpc&encryption=none#@FarsiProxi
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yNSIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0udG9yb2IuTWNpLnphcmFzaG9wMC5pci4iLCJpZCI6ImVkMWI1NzQzLTM4OWItNDhhMi04ZDYwLTM3OTBlZGVkN2NhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkBGYXJzaVByb3hpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?security=&type=grpc&encryption=none#@FarsiProxi
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?security=&fp=chrome&type=grpc&encryption=none#@FarsiProxi
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&allowInsecure=1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
 </pre>
 
 
