@@ -7,13 +7,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#@FarsiProxi
-vless://0226ef52-e556-4f36-ab0f-6c9f5414942a@152.53.147.69:22925?security=reality&sni=ilovepdf.com&fp=chrome&pbk=Pzsb-3zlxbYLJwRE0ACSqzTL7h3ubqREGMEs17q_1z4&sid=886d&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://0442e0ca-6c0e-4cc3-a195-91796b40dfd7@152.53.141.19:36200?security=reality&sni=smallpdf.com&fp=chrome&pbk=STZOlHDnnn3pvzI7oxCS7fDjo8qAAqkU3_EVzKGm2wM&sid=ee02&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@152.53.142.129:56765?security=reality&sni=stackoverflow.com&fp=chrome&pbk=DHIEcMf3BTEwQ_XEFx1j02jzn0KkKKeyPWH7wnWwuG8&sid=f50f5a&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://84ac6559-30a8-4c3e-bbcb-894edd4de743@89.58.57.52:39352?security=reality&sni=lowes.com&fp=chrome&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&sid=8f&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://06c4d024-6079-430e-bbc4-53a340ac933e@167.172.51.202:2096?security=reality&sni=zula.ir&fp=chrome&pbk=29iCBehXD9OCK1B5fDd7hwiOZEtm7BXiwzZpwggESzo&spx=/&type=grpc&encryption=none#@FarsiProxi
-vless://c25a90ea-6a3b-4d87-95b3-8ca4232f2a6e@37.120.171.194:36563?security=reality&sni=expedia.com&fp=chrome&pbk=tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00&sid=c294d6ba98e6a7&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#@FarsiProxi
+hy2://8090845ab60dac7ae65055cb16cd9863@dd.openaccessnode.com:995?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&sni=dd.ircybersec.org#@FarsiProxi
+hy2://2b195c17-5ff5-4b0d-a809-210b92212394@132.145.21.45:443?mport=50000-65535&insecure=1&sni=lundun1.nezhasu.com#@FarsiProxi
+vless://60eb00f0-8029-4746-9879-3161f2811723@143.20.79.11:443?security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=MAs2iGqDMBmRgr30oJsSooKFXbFB5kGA6PpjelWsZxw&sid=491db313&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
+hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#@FarsiProxi
+vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@157.173.127.228:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&sid=7fb3b0&type=tcp&encryption=none#@FarsiProxi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.219.237.163:990#@FarsiProxi
+vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443?security=tls&sni=dedi.besttotaldns.com&type=ws&path=/J5aKLOY1R9ONWYCM&host=dedi.besttotaldns.com&encryption=none#@FarsiProxi
+
 </pre>
 
 
