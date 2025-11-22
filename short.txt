@@ -8,13 +8,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#@FarsiProxi
 hy2://8090845ab60dac7ae65055cb16cd9863@dd.openaccessnode.com:995?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&sni=dd.ircybersec.org#@FarsiProxi
-hy2://2b195c17-5ff5-4b0d-a809-210b92212394@132.145.21.45:443?mport=50000-65535&insecure=1&sni=lundun1.nezhasu.com#@FarsiProxi
-vless://60eb00f0-8029-4746-9879-3161f2811723@143.20.79.11:443?security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=MAs2iGqDMBmRgr30oJsSooKFXbFB5kGA6PpjelWsZxw&sid=491db313&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#@FarsiProxi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#@FarsiProxi
+vless://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?security=&type=ws&path=/&encryption=none#@FarsiProxi
 vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@157.173.127.228:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&sid=7fb3b0&type=tcp&encryption=none#@FarsiProxi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.219.237.163:990#@FarsiProxi
-vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443?security=tls&sni=dedi.besttotaldns.com&type=ws&path=/J5aKLOY1R9ONWYCM&host=dedi.besttotaldns.com&encryption=none#@FarsiProxi
-
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&type=tcp&headerType=http&host=Telewebion.com&encryption=none#@FarsiProxi
+vmess://eyJhZGQiOiI1LjIzMS41Ni45OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1ZjJmMDc2NS1mMzMxLTRkMWUtODU2MC1kMmZiNTMzZGQ2ZmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM3MjEiLCJwcyI6IkBGYXJzaVByb3hpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 </pre>
 
 
