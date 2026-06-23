@@ -1,3 +1,7 @@
+vless://Masir_Sefid@37.156.44.205:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=/x9v13tGqXqfOiWp&type=tcp&encryption=none#@FarsiProxi
+vless://Masir_Sefid@37.156.44.205:8443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=/x9v13tGqXqfOiWp&type=tcp&encryption=none#@FarsiProxi
+vless://Masir_Sefid@83.228.200.66:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=/x9v13tGqXqfOiWp&type=tcp&encryption=none#@FarsiProxi
+vless://Masir_Sefid@83.228.200.66:8443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=/x9v13tGqXqfOiWp&type=tcp&encryption=none#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@de-fra.pvdata.host:1080#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@ch-zur.pvdata.host:1080#@FarsiProxi
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&type=tcp&encryption=none#@FarsiProxi
@@ -14,7 +18,6 @@ vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.82:8443?security=reality&
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&sni=enterprisekitten.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@ro-buk.pvdata.host:1080#@FarsiProxi
 vless://5982d32f-f2e4-4267-a8ad-48492e65344c@46.33.8.18:443?security=reality&sni=filesconvert.org&fp=chrome&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=f3c5f072749dcc9c&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.246.77:443?security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@5.129.236.132:443?security=reality&sni=ams-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4&type=tcp&flow=xtls-rprx-vision&encryption=none#@FarsiProxi
 hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&sni=tunel1.washing.help#@FarsiProxi
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#@FarsiProxi
