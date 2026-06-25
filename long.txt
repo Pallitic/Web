@@ -1,6 +1,9 @@
+trojan://MiTiVPN@151.101.189.242:443?security=tls&sni=www.f6r.ir&type=ws&path=/?ed%3D2560&host=www.f6r.ir#@FarsiProxi
+vless://XpnTeam-18@199.232.130.246:443?security=tls&sni=default.ssl.fastly.net&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/&host=Appxdn.global.ssl.fastly.net&encryption=none#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@ch-zur.pvdata.host:1080#@FarsiProxi
-trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=f6r.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/usa%3Dmitivpn&host=f6r.ir#@FarsiProxi
+trojan://MiTiVPN@151.101.36.36:80?security=tls&sni=cdn2-mitivpn.global.ssl.fastly.net&type=ws&path=/?ed%3D2560&host=cdn2-mitivpn.global.ssl.fastly.net#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@dk-cop.pvdata.host:1080#@FarsiProxi
+vless://XpnTeam-17@104.16.72.70:443?security=tls&sni=hello.aihoshbartar.ir&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=xhttp&encryption=none#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@ua-nik.pvdata.host:1080#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@ee-tal.pvdata.host:1080#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@hu-bud.pvdata.host:1080#@FarsiProxi
