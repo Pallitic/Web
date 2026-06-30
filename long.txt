@@ -1,5 +1,5 @@
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@dk-cop.pvdata.host:1080#@FarsiProxi
-vless://XpnTeam-33@151.101.57.134:443?security=tls&sni=default.ssl.fastly.net&alpn=http/1.1&fp=chrome&type=ws&path=/&host=Appxdn.global.ssl.fastly.net&encryption=none#@FarsiProxi
+vless://XpnTeam-35@151.101.57.134:443?security=tls&sni=default.ssl.fastly.net&alpn=http/1.1&fp=chrome&type=ws&path=/&host=Appxdn.global.ssl.fastly.net&encryption=none#@FarsiProxi
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@de-fra.pvdata.host:1080#@FarsiProxi
 trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/de%3Dmitivpn&host=3-mitivpn.global.ssl.fastly.net#@FarsiProxi
 trojan://Mitivpn@167.82.101.251:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/de&host=3-mitivpn.global.ssl.fastly.net#@FarsiProxi
@@ -16,6 +16,8 @@ hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?obfs=salamander&obfs-passwor
 socks5://R38Ycj1bnGQtFWP7cLUMgyGC:Tel6%40SoonTeam@ro-buk.pvdata.host:1080#@FarsiProxi
 trojan://MITIVPN@164.38.155.135:443?security=tls&sni=95r.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/MiTiVPN%3DDe&host=95r.ir#@FarsiProxi
 trojan://MiTiVPN@199.181.197.176:443?security=tls&sni=95r.ir&alpn=http/1.1&allowInsecure=1&fp=firefox&type=ws&path=/MiTiVPN%3DfL&host=95r.ir#@FarsiProxi
+vless://XpnTeam-34@104.18.153.130:443?security=tls&sni=hello.aihoshbartar.ir&alpn=h2,http/1.1&fp=chrome&type=tcp&encryption=none#@FarsiProxi
 trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=95r.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/MiTiVPN%3DSe&host=95r.ir#@FarsiProxi
 trojan://MITIVPN@94.140.0.100:443?security=tls&sni=95r.ir&alpn=http/1.1&allowInsecure=1&fp=firefox&type=ws&path=/MiTiVPN%3DUsa&host=95r.ir#@FarsiProxi
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#@FarsiProxi
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&sni=186.190.211.188&allowInsecure=1&type=tcp&encryption=none#@FarsiProxi
