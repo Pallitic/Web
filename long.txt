@@ -122,4 +122,3 @@ vless://0bc31c7f-1ee2-4dd3-929b-b61ae780eb3c@193.233.255.45:443?encryption=none&
 trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?security=tls&sni=pus.mmdaqaorg2.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=tcp&headerType=none#%40FarsiProxi
 vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dhlparcel.nl&fp=chrome&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&sid=3dad96f8693ea653&type=tcp&headerType=none&host=%2F%3FTELEGRAM--TOOTFFARANGI#%40FarsiProxi
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?encryption=none&security=reality&sni=rs1.univesalsrv.com&fp=firefox&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&type=grpc&authority=&serviceName=node.v2.ObjectService&mode=gun#%40FarsiProxi
-ہ
